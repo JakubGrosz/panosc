@@ -115,3 +115,14 @@ To illustrate usage, it is possible to (both are based on small datasets):
 - Rerun first step of the analysis based on PyMCA GUI following the instructions in https://github.com/alessaan/rhapsody-in-blue/blob/master/01_2015_Treatment-I_notes_only_for_pyMCA.ipynb (Requires remote desktop).
 - Rerun generation of a figure with a notebook: https://github.com/alessaan/rhapsody-in-blue/blob/master/12_Figure1_Treatment.ipynb
 
+# ELI Suggestion
+## Remote Analysis of PIC Simulation of Laser-target Interaction
+### Scenario
+- A scientist wants to alter visualization parameters of a specific dataset to render a different represenation.
+### Presenatation
+- Browse Open Data on PaNOSC Portal
+- Filter categories
+- Select example data - simulation analysis (eli)
+- Show detail page
+- Launch notebook
+- Modify visualization parameters - update visualization
